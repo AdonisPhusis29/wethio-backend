@@ -1,7 +1,6 @@
 Currently the Zynecoin development is still in progress.
 
 Documentation for set-up rpc-client of Zyn-coin on unix based OS
-https://github.com/zynecoin/wethio-backend.git
 
 Step 1 : ​ Install Golang
 
