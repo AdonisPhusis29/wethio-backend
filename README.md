@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzynecoin%2Fwethio-backend.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzynecoin%2Fwethio-backend?ref=badge_shield)
+
 # Currently the Zynecoin development is still in progress. #
 
 
@@ -100,3 +102,6 @@ value: 1e+21
 
 PS : You can also use our faucet to send test zyn to your account :
 http://dev.faucet.testnet.wethio.io/
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzynecoin%2Fwethio-backend.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzynecoin%2Fwethio-backend?ref=badge_large)
