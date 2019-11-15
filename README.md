@@ -1,19 +1,20 @@
-Currently the Zynecoin development is still in progress.
+# Currently the Zynecoin development is still in progress. #
+
 
 Documentation for set-up rpc-client of Zyn-coin on unix based OS
 
-Step 1 : ​ Install Golang
+## Step 1 : ​ Install Golang ##
 
 Download​ ​ go1.12.12​ ​ binary for your respective Architecture from
 https://golang.org/dl/
 
-Step 2​ ​ To extract the Downloaded file
+## Step 2​ ​ To extract the Downloaded file ##
 $ sudo tar -xvf filename
 
-Step 3 ​ To move the extracted folder to path
+## Step 3 ​ To move the extracted folder to path ##
 $ sudo mv go /usr/local
 
-Step 4 ​ Setup Go Environment
+## Step 4 ​ Setup Go Environment ##
 $ vim ~/.profile
 
 To enter edit mode press
@@ -33,7 +34,7 @@ $ source ~/.profile
 Verify go installed properly by
 $ go version
 
-Step 5​ ​ Setup the command line tools
+## Step 5​ ​ Setup the command line tools ##
 Clone the repository
 $ git clone https://github.com/zynecoin/wethio-backend.git
 
