@@ -14,13 +14,13 @@ const (
 	EpocBlockSecret            = 800
 	EpocBlockOpening           = 850
 	EpocBlockRandomize         = 900
-	MaxMasternodes             = 150
+	MaxMasternodes             = 5
 	LimitPenaltyEpoch          = 4
 	BlocksPerYear              = uint64(15768000)
 	LimitThresholdNonceInQueue = 10
 	DefaultMinGasPrice         = 250000000
 	MergeSignRange             = 15
-	RangeReturnSigner          = 150
+	RangeReturnSigner          = 5
 	MinimunMinerBlockPerEpoch  = 1
 )
 
